@@ -51,7 +51,7 @@ Carmine Abate, Arthur Azevedo de Amorim, Roberto Blanco, <b>Ana Nora Evans</b>, 
 Andrew Post, <b>Ana Nora Sovarel</b>, James Harrison  
 Proceedings of the _American Medical Informatics Association Symposium_. Chicago, IL, November 10-14 2007.
 
-<b>Where&#39;s the FEEB?: The Effectiveness of Instruction Set Randomization</b>
+<b>Where&#39;s the FEEB?: The Effectiveness of Instruction Set Randomization</b>  
 [<a href="//www.cs.virginia.edu/feeb/usenix05.pdf">PDF</a>] [<a href="//www.cs.virginia.edu/feeb/paper/">HTML</a>] [<a href="http://scholar.google.com/scholar?cites=4056278392712690408">over 200 cites</a>]  
 <b>Ana Nora Sovarel</b>, David Evans, Nathanael Paul.
 14<sup>th</sup> _USENIX Security Symposium_, Baltimore, MD, August 1&ndash;5, 2005
