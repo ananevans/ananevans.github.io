@@ -105,7 +105,7 @@ Dependable Systems Group. Charlottesville, VA. 13 April 2018.
 <b>Context Free Grammars - Parsing</b> [<a href="https://docs.google.com/presentation/d/1CZPmW7sg7ThCHDjnl2t5vXSCRR216bTXrZjyPZnmWwU/edit?usp=sharing">Google Slides</a>]
 Guest Lecture CS 4620. Charlottesville, VA. 7 September 2017.
 
-<b>Using Verified Software Fault Isolation for a Formally Secure Compiler</b>[<a href="https://docs.google.com/presentation/d/1pFBzzNBfMPATkEWrHcrDvAeP9HZXqMRamMTHC-erM1c/pub?start=false&loop=false&delayms=3000">Google Slides</a>]  
+<b>Using Verified Software Fault Isolation for a Formally Secure Compiler</b> [<a href="https://docs.google.com/presentation/d/1pFBzzNBfMPATkEWrHcrDvAeP9HZXqMRamMTHC-erM1c/pub?start=false&loop=false&delayms=3000">Google Slides</a>]  
 Prosecco Reading Group. INRIA Paris, France. 2 August 2017.
 
 <b>Paper presentation:</b> <a href="https://www.microsoft.com/en-us/research/publication/inferring-annotations-for-device-drivers-from-verification-histories/">Inferring Annotations For Device Drivers From Verification Histories</a>. Notes: [<a href="https://github.com/ananevans/talks/blob/master/Jan2017-InferringAnnotationsForDeviceDriversFromVerificationHistories/presentation_notes.pdf">PDF</a>]  
