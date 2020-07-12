@@ -1,0 +1,41 @@
+@font-face {
+  font-family: 'DejaVuSansMono';
+  src: url('../fonts/DejaVuSansMono.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DejaVuSansMono';
+  src: url('../fonts/DejaVuSansMono-Bold.ttf');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DejaVuSansMono';
+  src: url('../fonts/DejaVuSansMono-Oblique.ttf');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'DejaVuSansMono';
+  src: url('../fonts/DejaVuSansMono-Oblique.ttf');
+  font-weight: normal;
+  font-style: oblique;
+}
+
+@font-face {
+  font-family: 'DejaVuSansMono';
+  src: url('../fonts/DejaVuSansMono-BoldOblique.ttf');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'DejaVuSansMono';
+  src: url('../fonts/DejaVuSansMono-BoldOblique.ttf');
+  font-weight: bold;
+  font-style: oblique;
+}

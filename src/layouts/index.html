@@ -1,0 +1,37 @@
+{{ define "main" }}
+{{ $posts_title := index .Site.Params "posts_title" | default "Posts" }}
+{{ $posts_count := index .Site.Params "posts_count" | default 5 }}
+{{ $pubs_title := index .Site.Params "pubs_title" | default "Publications" }}
+{{ $pubs_count := index .Site.Params "pubs_count" | default 5 }}
+
+   <div class="container">       
+
+     <div class="content">
+
+     {{ range .Site.Pages }}
+         {{ if eq .Type "index" }}
+            {{ .Content }}
+         {{ end }}
+     {{ end }}
+  
+
+<!--
+    <div class="mainsection">Recent Posts</div>
+
+    {{ range first $posts_count (where site.RegularPages "Type" "in" site.Params.mainSections).ByDate.Reverse }}
+    {{ partial "post-full-summary" . }}
+    {{ end }}
+
+
+    <footer>
+      <nav>
+	<a href="/post/" class="button hollow primary">All {{ $posts_title }}</a>
+      </nav>
+    </footer>
+    -->
+    
+</div>
+</div>
+
+{{ end }}
+

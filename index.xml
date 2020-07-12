@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ana Nora Evans</title>
+    <link>//ananoraevans.org/</link>
+    <description>Recent content on Ana Nora Evans</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="//ananoraevans.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ana Nora Evans</title>
+      <link>//ananoraevans.org/main/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//ananoraevans.org/main/</guid>
+      <description>Ana Nora (Sovarel) Evans 
+University of Virginia
+AnaNEvans@virginia.edu   Research &amp;nbsp &amp;middot; &amp;nbsp Teaching &amp;nbsp &amp;middot; &amp;nbsp Other Activities &amp;nbsp &amp;middot; &amp;nbsp Personal  I am a PhD candidate at the University of Virginia, advised by Professors Mary Lou Soffa and Sebastian Elbaum.
+I am working on oracles for autonomous vehicles.
+I have a MS in Mathematics (2014) and Master of Computer Science (2006), both from UVA.</description>
+    </item>
+    
+  </channel>
+</rss>

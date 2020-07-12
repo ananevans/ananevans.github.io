@@ -1,0 +1,45 @@
+baseurl = "//ananoraevans.org/"
+languageCode = "en-us"
+title = "Ana Nora Evans"
+copyright = ""
+theme = "srg"
+
+paginate = 10
+paginatePath = "page"
+
+pageNotFoundTitle = "Not Found"
+pageNotFoundDetail = "Your request was determined to be an adversarial example by our web server. This could be because you are evil, but it is most likely a bad link or mistyped URL."
+
+[markup.goldmark.renderer]
+unsafe= true
+
+[permalinks]
+    post = "/:slug/"
+    code = "/:slug/"
+
+[params]
+    brand = "Ana Nora Evans"
+    topline = ""
+    footline = "<p align=\"center\">Ana Nora Evans | University of Virginia</p>"
+    sidebar = "left"
+
+    nodate = true
+    noauthor = true
+    noread = true
+    nopaging=true
+    notoc=true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[blackfriday]
+    angledQuotes = false
+    fractions = false
+    hrefTargetBlank = false
+    latexDashes = true
+    plainIdAnchors = true
+    extensions = []
+    extensionmask = []
+
+[[menu.footer]]
