@@ -163,10 +163,10 @@ Teaching Assistant &mdash; CS4610 <em>Programming Languages</em>, University of 
 Instructor &mdash; <a href="http://www.cs.virginia.edu/evans/finmath/">MATH 1140 <em>Financial Mathematics</em></a>, Fall 2011
    </div>
    <div class="hanging">
-Teaching Assistant &mdash; MATH 7752 <em>Algebra II</em>, University of Virginia, Spring 2011
+Teaching Assistant &mdash; MATH 7752 <em>Algebra II</em>, University of Virginia, Spring 2011.
    </div>
    <div class="hanging">
-Grader &mdash; MATH 5651 <em>Advanced Linear Algebra</em>, University of Virginia, Fall 2010
+Grader &mdash; MATH 5651 <em>Advanced Linear Algebra</em>, University of Virginia, Fall 2010.
    </div>
    <div class="hanging">
 Teaching Assistant: CS101 <em>Intro to Computer Science</em>, University of Virginia; Fall 2004, Spring 2005; 
