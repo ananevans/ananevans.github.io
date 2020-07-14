@@ -77,9 +77,10 @@ _POPL 2018 Student Research Competition_. Los Angeles, CA, January 11-12 2018.
 [<a href="https://arxiv.org/abs/1710.07308">pdf</a>]
 Guglielmo Fachini, Cătălin Hriţcu, Marco Stronati, <b>Ana Nora Evans</b>, Théo Laurent, Arthur Azevedo de Amorim, Benjamin C. Pierce, Andrew Tolmach
 _PriSC 2018 Principles of Secure Compilation_ at POPL 2018,
-
 			
 # Projects
+
+<img align="right" src="/images/ananora.png" width="500" style="border-radius: 30%; padding-left: 15px;">
 
 <a href="https://github.com/ananevans/icse2020"><b>Empirical Study of Unsafe Use in Rust</b></a> (2018 &ndash; 2019)
 
