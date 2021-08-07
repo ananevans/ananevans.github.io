@@ -5,11 +5,7 @@
     <link>//ananoraevans.org/</link>
     <description>Recent content on Ana Nora Evans</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="//ananoraevans.org/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="//ananoraevans.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ana Nora Evans</title>
       <link>//ananoraevans.org/main/</link>
@@ -18,9 +14,8 @@
       <guid>//ananoraevans.org/main/</guid>
       <description>Ana Nora (Sovarel) Evans 
 University of Virginia
-AnaNEvans@virginia.edu   Research &amp;nbsp &amp;middot; &amp;nbsp Teaching &amp;nbsp &amp;middot; &amp;nbsp Other Activities &amp;nbsp &amp;middot; &amp;nbsp Personal  I am a PhD candidate at the University of Virginia, advised by Professors Mary Lou Soffa and Sebastian Elbaum.
-I am working on oracles for autonomous vehicles.
-I have a MS in Mathematics (2014) and Master of Computer Science (2006), both from UVA.</description>
+AnaNEvans@virginia.edu   Research &amp;nbsp &amp;middot; &amp;nbsp Teaching &amp;nbsp &amp;middot; &amp;nbsp Other Activities &amp;nbsp &amp;middot; &amp;nbsp Personal  I am currently enrolled in the Post Graduate Master of Teaching program at the School of Education and Human Development at the University of Virginia, to earn a teaching licence for secondary education in Mathematics and Computer Science.
+I am on a leave of absence from the PhD program in the Computer Science Department at the University of Virgina.</description>
     </item>
     
   </channel>
