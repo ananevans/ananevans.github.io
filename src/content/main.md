@@ -22,16 +22,9 @@ University of Virginia<br>
   <a href="#misc">Personal</a> 
 </div>
 
-
-I am a PhD candidate at the University of Virginia, advised by Professors [Mary Lou Soffa](//www.cs.virginia.edu/~soffa/) and [Sebastian Elbaum](//www.cs.virginia.edu/~se4ja/).
-
-I am working on oracles for autonomous vehicles.
-
-I have a MS in Mathematics (2014) and Master of Computer Science (2006), both from UVA.
-
-I host the [Charlottesville Math Circle](//cvillemathcircle.org/) with
-[David Evans](//www.cs.virginia.edu/evans/). If you have a seven to
-nine year old interested in Math and puzzles please join us.
+I am currently enrolled in the Post Graduate Master of Teaching program at the 
+[School of Education and Human Development](//www.education.virginia.edu) at the University of Virginia, to earn a teaching licence for secondary education in Mathematics and Computer Science. I am currently on leave of absence from the PhD program in the Computer Science Department at the University of Virgina. 
+My research focuses on testing oracles for autonomous vehicles. 
 
 # <a name="research"></a>Research
 
@@ -134,26 +127,15 @@ Masters Project Presentation, University of Virginia. Charlottesville, VA. 6 Jun
 
 <b>The Effectiveness of Instruction Set Randomization</b> [<a href="http://www.cs.virginia.edu/feeb/oakland.ppt">PPT</a>] [<a href="http://www.cs.virginia.edu/feeb/oakland.pdf">PDF</a>]  
 IEEE _Symposium on Security and Privacy_, Work in Progress, 9 May 2005.
-
-   <!--
-# Conferences
-
-Sep 2011 - <a href="http://www.ams.org/meetings/sectional/2191_program.html">AMS Fall Southeastern Section Meeting</a><br />
-Jan 2010 - <a href="http://www.msri.org/calendar/workshops/WorkshopInfo/511/show_workshop">Introductory Workshop: Homology Theories of Knots and Links</a><br />
-Nov 2009 - <a href="http://math.tulane.edu/~topology/"> First National Forum of Young Topologists</a><br />
-May 2009 - <a href="http://www.math.uga.edu/~topology/">Georgia International Topology Conference</a><br />
-Apr 2009 - <a href="http://www.math.wisc.edu/~gstgc/">Graduate Student Topology &amp; Geometry Conference 2009</a><br />
-Oct 2008 - <a href="http://www.msri.org/calendar/workshops/WorkshopInfo/458/show_workshop"> Promoting Diversity at the Graduate Level in Mathematics: a National Forum</a><br />
-May 2008 - <a href="http://www.math.ias.edu/wam/programs/2008">Program for Women and Mathematics </a> at the <a href="http://www.math.ias.edu">Institute for Advanced Study</a>. Here are some pictures: <a href="http://picasaweb.google.com/anna1629/200805IAS">IAS</a>, <a href="http://picasaweb.google.com/anna1629/200805MathParty">math party</a>.<br />
-Nov 2006 - <a href="http://www.amia.org/meetings/f06/">AMIA 2006</a><br />
-Aug 2005 - <a href="http://www.usenix.org/events/sec05/">14<sup>th</sup> Usenix Security Symposium</a><br />
-May 2005 - <a href="http://www.ieee-security.org/TC/SP2005/oakland05.html">2005 IEEE Security and Privacy Symposium</a><br />
-  -->	
 				
 <img align="right" src="/images/naturalization.jpg" width="500" style="border-radius: 30%; padding-left: 15px;">
 
 # <a name="teaching"></a>Teaching
 
+     <div class="hanging">
+Student-Teacher &mdash; Mathematics, Monticello High School, Fall 2021.
+   </div>
+   
    <div class="hanging">
 Teaching Assistant &mdash; <a href="https://sites.google.com/view/rsecs4501-spring2020/home?authuser=0"/>CS4501 <em>Robotics for Software Engineers</em></a>, University of Virginia, Spring 2020.
    </div>
@@ -190,7 +172,7 @@ Program for Women and Mathematics at the Institute for Advanced Study &mdash; Su
 
 <a href="https://www.firstinspires.org/robotics/flljr"/>FIRST LEGO League Jr.</a> &mdash; Team Lead Coach/Mentor, 2018 &ndash; 2020 seasons.  
 <a href="http://www.tech-girls.org/girls-geek-day.html">GeekGirl@UVa</a> &mdash; organizer. July 14, 2018.  
-<a href="http://cvillemathcircle.org/">Cville Math Circle</a> &mdash; cofounder and teacher, Feb 2016 &ndash; present.  
+<a href="http://cvillemathcircle.org/">Cville Math Circle</a> &mdash; cofounder and teacher, Feb 2016 &ndash; March 2020.  
 Mentor of a 4<sup>th</sup> year undergraduate in the Engineering Graduate School Mentor Program, May 2018.  
 Outreach Coordinator, <a href="https://www.virginiaswe.org/">GradSWE at the University of Virginia</a>, May 2018 <br />
 Volunteer family mentor with <a href="http://www.theirc.org/us-program/us-charlottesville-va">International Rescue Committee</a>, Jan 2010 &ndash; Jan 2011.  
