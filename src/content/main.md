@@ -133,10 +133,9 @@ IEEE _Symposium on Security and Privacy_, Work in Progress, 9 May 2005.
 
 # <a name="teaching"></a>Teaching
 
-     <div class="hanging">
+   <div class="hanging">
 Student-Teacher &mdash; Mathematics, Monticello High School, Fall 2021.
    </div>
-   
    <div class="hanging">
 Teaching Assistant &mdash; <a href="https://sites.google.com/view/rsecs4501-spring2020/home?authuser=0"/>CS4501 <em>Robotics for Software Engineers</em></a>, University of Virginia, Spring 2020.
    </div>
