@@ -23,8 +23,9 @@ University of Virginia<br>
 </div>
 
 I am currently enrolled in the Post Graduate Master of Teaching program at the 
-[School of Education and Human Development](//www.education.virginia.edu) at the University of Virginia, to earn a teaching licence for secondary education in Mathematics and Computer Science. I am currently on leave of absence from the PhD program in the Computer Science Department at the University of Virgina. 
-My research focuses on testing oracles for autonomous vehicles. 
+[School of Education and Human Development](//www.education.virginia.edu) at the University of Virginia, to earn a teaching licence for secondary education in Mathematics and Computer Science.
+
+I am on a leave of absence from the PhD program in the Computer Science Department at the University of Virgina. Hopefully, I will continue my research on testing oracles for autonomous vehicles.
 
 # <a name="research"></a>Research
 
