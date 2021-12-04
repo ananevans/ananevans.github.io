@@ -46,7 +46,7 @@ Andrew Post, <b>Ana Nora Sovarel</b>, James Harrison
 Proceedings of the _American Medical Informatics Association Symposium_. Chicago, IL, November 10-14 2007.
 
 <b>Where&#39;s the FEEB?: The Effectiveness of Instruction Set Randomization</b>  
-[<a href="//www.cs.virginia.edu/feeb/usenix05.pdf">PDF</a>] [<a href="//www.cs.virginia.edu/feeb/paper/">HTML</a>] [<a href="http://scholar.google.com/scholar?cites=4056278392712690408">over 200 cites</a>]  
+[<a href="//www.cs.virginia.edu/feeb/usenix05.pdf">PDF</a>] [<a href="//www.cs.virginia.edu/feeb/paper/">HTML</a>] [<a href="//scholar.google.com/scholar?cites=4056278392712690408">over 200 cites</a>]  
 <b>Ana Nora Sovarel</b>, David Evans, Nathanael Paul.
 14<sup>th</sup> _USENIX Security Symposium_, Baltimore, MD, August 1&ndash;5, 2005
 
@@ -57,7 +57,7 @@ Proceedings of the _American Medical Informatics Association Symposium_. Chicago
 ## Short Papers
 
 <b>An Oracle Language for Autonomous Vehicles</b>  
-[<a href="https://arxiv.org/abs/2006.10177">Abstract</a>] [<a href="http://ananoraevans.org/ICSE2020-Poster/ICSE2020-Poster.pdf">Poster</a>] [<a href="https://www.youtube.com/watch?v=X2u8bUCNAao">Video Presentation</a>]  
+[<a href="https://arxiv.org/abs/2006.10177">Abstract</a>] [<a href="//ananoraevans.org/ICSE2020-Poster/ICSE2020-Poster.pdf">Poster</a>] [<a href="https://www.youtube.com/watch?v=X2u8bUCNAao">Video Presentation</a>]  
 <b>Ana Nora Evans</b>, Mary Lou Soffa, Sebastian Elbaum  
 _ICSE 2020 Poster Session_. July 2020. 
 
@@ -79,19 +79,19 @@ _PriSC 2018 Principles of Secure Compilation_ at POPL 2018,
 <a href="https://github.com/ananevans/icse2020"><b>Empirical Study of Unsafe Use in Rust</b></a> (2018 &ndash; 2019)
 
 <a href="https://secure-compilation.github.io/"><b>SECOMP</b></a> (2017)
-External collaborator, worked with <a href="http://prosecco.gforge.inria.fr/personal/hritcu/">Catalin Hritcu</a> and <a href="http://www.stronati.org/">Marco Stronati</a>).
+External collaborator, worked with <a href="//prosecco.gforge.inria.fr/personal/hritcu/">Catalin Hritcu</a> and <a href="//www.stronati.org/">Marco Stronati</a>).
 
-<a href="http://www.cs.virginia.edu/~evans/critical/"><b>Automatic Identification and Protection of Security-Critical Data</b></a> (2006)
+<a href="//www.cs.virginia.edu/~evans/critical/"><b>Automatic Identification and Protection of Security-Critical Data</b></a> (2006)
 
-<a href="http://www.cs.virginia.edu/feeb/"><b>FEEB: Instruction Set Randomization</b></a> (2005)
+<a href="//www.cs.virginia.edu/feeb/"><b>FEEB: Instruction Set Randomization</b></a> (2005)
 
 
 # Talks
 
-<b>Math Lectures for Second Grade</b> [<a href="http://ananoraevans.org/SecondGradeMath/">Materials</a>]  
+<b>Math Lectures for Second Grade</b> [<a href="/secondgrademath/">Materials</a>]  
 Guest Lecture Peabody Second Grade, April &ndash; May, 2020.
 
-<b>Transformations</b> [<a href="http://ananoraevans.org/Spring2020TA/"> Materials</a>]  
+<b>Transformations</b> [<a href="//ananoraevans.org/Spring2020TA/"> Materials</a>]  
 Guest Lecture Robotics For Software Engineers, April 2020.
 
 <b>An Introduction to Mutation Analysis</b> [<a href="https://docs.google.com/presentation/d/1_ht3mp557InqnImZAEg8yQGVZU7sfknEgEVzJ3VdEoI/edit?usp=sharing">Google Slides</a>]
@@ -116,17 +116,17 @@ MATH 8720 Symplectic and Contact Topology, Charlottesville, VA. 28 April 2011.
 MATH 8710 Lie Algebras, University of Virginia, Charlottesville, VA, Nov 17, 2010
 
 <b>An Untangled Introduction to Knot Theory</b> [<a href="KnotTheory.pptx">PPTX</a>] <!--[
-<a href="http://people.virginia.edu/~ans5k/KnotTheory/KnotTheory.pdf">pdf</a>
+<a href="//people.virginia.edu/~ans5k/KnotTheory/KnotTheory.pdf">pdf</a>
 ]--><br />
 Math Club Talk, University of Virginia, Charlottesville, VA. 12 February 2010
 
 <b>Identification and Protection of Security Critical Data</b> [<a href="mcs.ppt">PPT</a>]  
 Masters Project Presentation, University of Virginia. Charlottesville, VA. 6 June 2006.
 
-<b>The Effectiveness of Instruction Set Randomization</b> [<a href="http://www.cs.virginia.edu/feeb/usenix.ppt">PPT</a>]  
+<b>The Effectiveness of Instruction Set Randomization</b> [<a href="//www.cs.virginia.edu/feeb/usenix.ppt">PPT</a>]  
 14<sup>th</sup> _USENIX Security Symposium_, Baltimore, MD. 1 &ndash; 5 August 2005.
 
-<b>The Effectiveness of Instruction Set Randomization</b> [<a href="http://www.cs.virginia.edu/feeb/oakland.ppt">PPT</a>] [<a href="http://www.cs.virginia.edu/feeb/oakland.pdf">PDF</a>]  
+<b>The Effectiveness of Instruction Set Randomization</b> [<a href="//www.cs.virginia.edu/feeb/oakland.ppt">PPT</a>] [<a href="//www.cs.virginia.edu/feeb/oakland.pdf">PDF</a>]  
 IEEE _Symposium on Security and Privacy_, Work in Progress, 9 May 2005.
 				
 <img align="right" src="/images/naturalization.jpg" width="500" style="border-radius: 30%; padding-left: 15px;">
@@ -143,7 +143,7 @@ Teaching Assistant &mdash; <a href="https://sites.google.com/view/rsecs4501-spri
 Teaching Assistant &mdash; CS4610 <em>Programming Languages</em>, University of Virginia, Fall 2019.
    </div>
    <div class="hanging">
-Instructor &mdash; <a href="http://www.cs.virginia.edu/evans/finmath/">MATH 1140 <em>Financial Mathematics</em></a>, Fall 2011
+Instructor &mdash; <a href="//www.cs.virginia.edu/evans/finmath/">MATH 1140 <em>Financial Mathematics</em></a>, Fall 2011
    </div>
    <div class="hanging">
 Teaching Assistant &mdash; MATH 7752 <em>Algebra II</em>, University of Virginia, Spring 2011.
@@ -171,28 +171,28 @@ Program for Women and Mathematics at the Institute for Advanced Study &mdash; Su
 # Outreach Activities
 
 <a href="https://www.firstinspires.org/robotics/flljr"/>FIRST LEGO League Jr.</a> &mdash; Team Lead Coach/Mentor, 2018 &ndash; 2020 seasons.  
-<a href="http://www.tech-girls.org/girls-geek-day.html">GeekGirl@UVa</a> &mdash; organizer. July 14, 2018.  
-<a href="http://cvillemathcircle.org/">Cville Math Circle</a> &mdash; cofounder and teacher, Feb 2016 &ndash; March 2020.  
+<a href="//www.tech-girls.org/girls-geek-day.html">GeekGirl@UVa</a> &mdash; organizer. July 14, 2018.  
+<a href="//cvillemathcircle.org/">Cville Math Circle</a> &mdash; cofounder and teacher, Feb 2016 &ndash; March 2020.  
 Mentor of a 4<sup>th</sup> year undergraduate in the Engineering Graduate School Mentor Program, May 2018.  
 Outreach Coordinator, <a href="https://www.virginiaswe.org/">GradSWE at the University of Virginia</a>, May 2018 <br />
-Volunteer family mentor with <a href="http://www.theirc.org/us-program/us-charlottesville-va">International Rescue Committee</a>, Jan 2010 &ndash; Jan 2011.  
+Volunteer family mentor with <a href="//www.theirc.org/us-program/us-charlottesville-va">International Rescue Committee</a>, Jan 2010 &ndash; Jan 2011.  
 Volunteer tutor at Johnson Elementary School; Jan 2010 &ndash; May 2010.  
 Volunteer tutor at Charlottesville High School. Sept 2007 &ndash; June 2008.  
 Founder and Organizer of Security Reading Group at UVA, Jan 2006 &ndash; May 2006.  
 <img align="right" src="/images/nmd.png" width="500" style="border-radius: 30%; padding-left: 15px;">
-Mentoring Committee Chair of <a href="http://www.cs.virginia.edu/~acm-w/">ACM-W</a> chapter at the University of Virginia, Sep 2006 &ndash; May 2006.
+Mentoring Committee Chair of <a href="//www.cs.virginia.edu/~acm-w/">ACM-W</a> chapter at the University of Virginia, Sep 2006 &ndash; May 2006.
 
 # Personal <a name="misc"></a>
 
-I am Romanian. Before moving to Virginia, I lived in <a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=EN&amp;geocode=&amp;q=Bucharest,+Romania&amp;sll=38.035955,-78.442138&amp;sspn=0.008602,0.019226&amp;ie=UTF8&amp;ll=44.453879,26.102142&amp;spn=0.249479,0.615234&amp;z=11"> Bucharest, Romania</a>.
+I am Romanian. Before moving to Virginia, I lived in <a href="//maps.google.com/maps?f=q&amp;source=s_q&amp;hl=EN&amp;geocode=&amp;q=Bucharest,+Romania&amp;sll=38.035955,-78.442138&amp;sspn=0.008602,0.019226&amp;ie=UTF8&amp;ll=44.453879,26.102142&amp;spn=0.249479,0.615234&amp;z=11"> Bucharest, Romania</a>.
 
-In Summer 2010, I went to the World Cup in South Africa. (<a href="http://www.cs.virginia.edu/~evans/pictures/za2010/">Pictures</a>)
+In Summer 2010, I went to the World Cup in South Africa. (<a href="//www.cs.virginia.edu/~evans/pictures/za2010/">Pictures</a>)
 
-My daughter, <a href="http://www.dorina.org">Dorina Michelle Evans</a>, was born on June 29, 2012.  
+My daughter, <a href="//www.dorina.org">Dorina Michelle Evans</a>, was born on June 29, 2012.  
 On July 4<sup>th</sup> 2013, I became a US citizen. (<a href="https://plus.google.com/photos/114975801512009922265/albums/5896848450375749937">Pictures</a>).  
-My son, <a href="http://maxwellevans.net/">Maxwell Nicholas Evans</a>, was born on March 18, 2015.
+My son, <a href="//maxwellevans.net/">Maxwell Nicholas Evans</a>, was born on March 18, 2015.
 
 In November 2019, I earned a first dan Black Belt in Tae Kwon Do.
 
-My husband, <a href="http://www.cs.virginia.edu/evans/">David Evans</a> wrote two books: <a href="http://www.computingbook.org/"> Introduction to Computing: Explorations in Language, Logic, and Machines</a> and <a href="http://www.dori-mic.org/">Dori-Mic and the Universal Machine!</a>.
+My husband, <a href="//www.cs.virginia.edu/evans/">David Evans</a> wrote two books: <a href="//www.computingbook.org/"> Introduction to Computing: Explorations in Language, Logic, and Machines</a> and <a href="//www.dori-mic.org/">Dori-Mic and the Universal Machine!</a>.
 
