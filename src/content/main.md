@@ -25,7 +25,7 @@ University of Virginia<br>
 I am currently enrolled in the Post Graduate Master of Teaching program at the 
 [School of Education and Human Development](//www.education.virginia.edu) at the University of Virginia, to earn a teaching licence for secondary education in Mathematics and Computer Science.
 
-I am looking for a teaching position in secondary education in Mathematics or Computer Science strting with the 2022-2023 school year. ([<a href="https://github.com/ananevans/job">Job Application Materials</a>]). 
+I am looking for a teaching position in secondary education in Mathematics or Computer Science starting with the 2022-2023 school year. ([<a href="./job">Job Application Materials</a>]). 
 
 # <a name="research"></a>Research
 
