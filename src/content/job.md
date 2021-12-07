@@ -9,8 +9,8 @@ After graduation in May 2022, I will earn a Virginia teaching licence for second
 
 Job application materials:
 
-1. [CV](//ananoraevans.org/job_search/cv.pdf)
-2. [Teaching Statement](//ananoraevans.org/job_search/ts.pdf)
+1. [CV](//ananoraevans.org/job/cv.pdf)
+2. [Teaching Statement](//ananoraevans.org/job/ts.pdf)
 3. [Whitepaper on My Classroom Management Philosophy](//ananoraevans.org/job_search/CCTL.pdf)
 4. Unit Instructional Design, Algebra 2, Quadratic Functions
 
