@@ -5,7 +5,7 @@ slug = "job"
 
 I am looking for a teaching position in the Charlotetsville-Albemarle area in a middle school or high school.
 
-I May 2022, I will earn a Virginia teaching licence for secondary Mathematics education, with an endorsement in Computer Science. Because I also earned a Master in Computer Science and a Master of Arts in Mathematics, I am also qualified to teach dual-enrollment classes.
+In May 2022, I will earn a Virginia teaching licence for secondary Mathematics education, with an endorsement in Computer Science. Because I also earned a Master in Computer Science and a Master of Arts in Mathematics, I am also qualified to teach dual-enrollment classes.
 
 Job application materials:
 
