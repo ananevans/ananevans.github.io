@@ -32,3 +32,9 @@ Job application materials:
    6. [Quadratics, Lesson 3, Transformations](https://teacher.desmos.com/activitybuilder/custom/61801682d9c8050a01108e8f)
    7. [Quadratics, Lesson 3, Practice](https://teacher.desmos.com/activitybuilder/custom/6181bd14b6624e584613511b)
    8. [Quadratics, Lesson 4, Factorizations](https://teacher.desmos.com/activitybuilder/custom/618841e246297e09dbad4f2b)
+1. Computer Science 1 [Class Materials](https://github.com/ananevans/MonticelloHS-CS1)
+1. Honors Geometry
+   1. Proportions and similarity activity [PDF](//ananoraevans.org/job_search/ProportionsProblems.pdf)
+1. Math Analysis
+   1. Polynomials Unit [Day 1]((//ananoraevans.org/job_search/Polynomials.pdf)[Day 2](//ananoraevans.org/job_search/PolynomialsDay2.pdf)
+   2. Function Composition Demos [D1](https://youtu.be/2sxiz1Wh8yc), [D2](https://youtu.be/TrguoBvbRG0), [D3](https://youtu.be/pfb4b4LZroc), [D4](https://youtu.be/qzxn-QlQBn8), [D5](https://youtu.be/xTDJuf9nkhw)
