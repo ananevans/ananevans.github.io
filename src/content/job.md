@@ -3,15 +3,15 @@ title = "Job Application Materials"
 slug = "job"
 +++
 
-I am looking for a teaching position in the Charlotetsville-Albemarle area in a middle school or high school.
+I am looking for a Math or Computer Science teaching position in the Charlotetsville-Albemarle area in a middle school or high school.
 
-In May 2022, I will earn a Virginia teaching licence for secondary Mathematics education, with an endorsement in Computer Science. Because I also earned a Master in Computer Science and a Master of Arts in Mathematics, I am also qualified to teach dual-enrollment classes.
+In May 2022, I will earn a Virginia teaching license for secondary Mathematics education, with an endorsement in Computer Science. Because I also earned a Master in Computer Science and a Master of Arts in Mathematics, I am also qualified to teach dual-enrollment classes.
 
 Job application materials:
 
 1. [CV](//ananoraevans.org/job_search/cv.pdf)
 2. [Teaching Statement](//ananoraevans.org/job_search/ts.pdf)
-3. [Whitepaper on Classroom Management Philosophy](//ananoraevans.org/job_search/CCTL.pdf)
+3. [White paper on Classroom Management Philosophy](//ananoraevans.org/job_search/CCTL.pdf)
 4. Unit Instructional Design, Algebra 2, Quadratic Functions
    1. [Unit Plan](//ananoraevans.org/job_search/UT_Evans_UnitTemplate.pdf)
    2. Lesson 1 [Slides](//ananoraevans.org/job_search/LP_Evans_Slides.pdf) , [Notes](//ananoraevans.org/job_search/LP_Evans_Notes.pdf) , [Plan](//ananoraevans.org/job_search/LP_Evans_LessonPlan.pdf)
@@ -36,5 +36,5 @@ Job application materials:
 1. Honors Geometry
    1. Proportions and similarity activity [PDF](//ananoraevans.org/job_search/ProportionsProblems.pdf)
 1. Math Analysis
-   1. Polynomials Unit [Day 1]((//ananoraevans.org/job_search/Polynomials.pdf)[Day 2](//ananoraevans.org/job_search/PolynomialsDay2.pdf)
+   1. Polynomials Unit [Day 1](//ananoraevans.org/job_search/Polynomials.pdf), [Day 2](//ananoraevans.org/job_search/PolynomialsDay2.pdf)
    2. Function Composition Demos [D1](https://youtu.be/2sxiz1Wh8yc), [D2](https://youtu.be/TrguoBvbRG0), [D3](https://youtu.be/pfb4b4LZroc), [D4](https://youtu.be/qzxn-QlQBn8), [D5](https://youtu.be/xTDJuf9nkhw)
