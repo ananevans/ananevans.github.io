@@ -22,10 +22,12 @@ University of Virginia<br>
   <a href="#misc">Personal</a> 
 </div>
 
-I am currently enrolled in the Post Graduate Master of Teaching program at the 
+I am currently a Calculus and Statiscs teacher at [Renaissance School](https://renaissanceschool.org/) in Charlottesville and run my tutoring business, [Blue Ridge Boost](https://blueridgeboost.com/).
+
+<!-- I am currently enrolled in the Post Graduate Master of Teaching program at the 
 [School of Education and Human Development](//www.education.virginia.edu) at the University of Virginia, to earn a teaching licence for secondary education in Mathematics and Computer Science.
 
-I am looking for a teaching position in secondary education in Mathematics or Computer Science starting with the 2022-2023 school year. Application materials are available <a href="/job/">here</a>. 
+I am looking for a teaching position in secondary education in Mathematics or Computer Science starting with the 2022-2023 school year. Application materials are available <a href="/job/">here</a>.  -->
 
 # <a name="research"></a>Research
 
@@ -133,8 +135,11 @@ IEEE _Symposium on Security and Privacy_, Work in Progress, 9 May 2005.
 
 # <a name="teaching"></a>Teaching
 
+<div class="hanging">
+Teacher &mdash; Calculus 1 and 2, Renaissance Schooll, Fall 2022 and Spring 2023.
+   </div>
    <div class="hanging">
-Student-Teacher &mdash; Mathematics, Monticello High School, Fall 2021.
+Student-Teacher &mdash; Mathematics, Monticello High School, Fall 2021 and Spring 2022.
    </div>
    <div class="hanging">
 Teaching Assistant &mdash; <a href="https://sites.google.com/view/rsecs4501-spring2020/home?authuser=0"/>CS4501 <em>Robotics for Software Engineers</em></a>, University of Virginia, Spring 2020.
