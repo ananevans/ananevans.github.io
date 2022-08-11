@@ -10,8 +10,8 @@ type = "index"
    <div class="column small-12 medium-6" style="padding: 0.5rem; valign='middle'">
    <div class="valigned"><span class="valigned">
 <font size="6rem" color="#660000">Ana Nora (Sovarel) Evans </font><br>
-University of Virginia<br>  
-<a href="mailto:AnaNEvans@virginia.edu">AnaNEvans@virginia.edu</a>
+<!-- University of Virginia<br>  
+<a href="mailto:AnaNEvans@virginia.edu">AnaNEvans@virginia.edu</a> -->
    </div></div>
    </div>
 
