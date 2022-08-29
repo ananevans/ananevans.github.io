@@ -22,7 +22,7 @@ type = "index"
   <a href="#misc">Personal</a> 
 </div>
 
-I am currently a Calculus and Statiscs teacher at [Renaissance School](https://renaissanceschool.org/) in Charlottesville and run my tutoring business, [Blue Ridge Boost](https://blueridgeboost.com/).
+I am currently a Calculus and Statistics teacher at [Renaissance School](https://renaissanceschool.org/) in Charlottesville and run my tutoring business, [Blue Ridge Boost](https://blueridgeboost.com/).
 
 <!-- I am currently enrolled in the Post Graduate Master of Teaching program at the 
 [School of Education and Human Development](//www.education.virginia.edu) at the University of Virginia, to earn a teaching licence for secondary education in Mathematics and Computer Science.
