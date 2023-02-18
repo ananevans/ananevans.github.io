@@ -9,7 +9,7 @@ type = "index"
    </div>
    <div class="column small-12 medium-6" style="padding: 0.5rem; valign='middle'">
    <div class="valigned"><span class="valigned">
-<font size="6rem" color="#660000">Ana <b>Nora</b> (Sovarel) Evans </font><br>
+<font size="6rem" color="#660000">Nora Evans</font><br>
  Algebra Teacher<br>
  Peabody School, Charlottesville, Virginia <br>
 <a href="mailto:AnaNEvans@gmail.com">AnaNEvans@gmail.com</a> 
@@ -23,9 +23,9 @@ type = "index"
   <a href="#misc">Personal</a> 
 </div>
 
-I am currently an Algebra teacher at [Peabody School](https://peabodyschool.org/) in Charlottesville. I greatly enjoy running the Peabody Math Club and coaching Peabody's AMC8 and MathCounts teams.
+I teach Algebra at [Peabody School](https://peabodyschool.org/) in Charlottesville and greatly enjoy running the Peabody Math Club and coaching Peabody's AMC8 and MathCounts teams.
 
-On weekends run my education business, [Blue Ridge Boost](https://blueridgeboost.com/). We offer coding classes and math tutoring to K-12 students.
+On weekends, I run my education business, [Blue Ridge Boost](https://blueridgeboost.com/). We offer coding classes and math tutoring to K-12 students.
 
 # <a name="teaching"></a>Teaching
 
