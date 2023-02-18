@@ -1,5 +1,5 @@
 +++
-title = "Ana Nora Evans"
+title = "Nora Evans"
 type = "index"
 +++
 
@@ -9,25 +9,77 @@ type = "index"
    </div>
    <div class="column small-12 medium-6" style="padding: 0.5rem; valign='middle'">
    <div class="valigned"><span class="valigned">
-<font size="6rem" color="#660000">Ana Nora (Sovarel) Evans </font><br>
-<!-- University of Virginia<br>  
-<a href="mailto:AnaNEvans@virginia.edu">AnaNEvans@virginia.edu</a> -->
+<font size="6rem" color="#660000">Ana <b>Nora</b> (Sovarel) Evans </font><br>
+ Algebra Teacher<br>
+ Peabody School, Charlottesville, Virginia <br>
+<a href="mailto:AnaNEvans@gmail.com">AnaNEvans@gmail.com</a> 
    </div></div>
    </div>
 
 <div style="margin:2em; border-width: 1; border-color: #660000; text-align: center;">
-   <a href="#research">Research</a> &nbsp &middot; &nbsp
    <a href="#teaching">Teaching</a> &nbsp &middot; &nbsp
    <a href="#others">Other Activities</a> &nbsp &middot; &nbsp
+   <a href="#research">Research</a> &nbsp &middot; &nbsp
   <a href="#misc">Personal</a> 
 </div>
 
-I am currently a Calculus and Statistics teacher at [Renaissance School](https://renaissanceschool.org/) in Charlottesville and run my tutoring business, [Blue Ridge Boost](https://blueridgeboost.com/).
+I am currently an Algebra teacher at [Peabody School](https://peabodyschool.org/) in Charlottesville. I greatly enjoy running the Peabody Math Club and coaching Peabody's AMC8 and MathCounts teams.
 
-<!-- I am currently enrolled in the Post Graduate Master of Teaching program at the 
-[School of Education and Human Development](//www.education.virginia.edu) at the University of Virginia, to earn a teaching licence for secondary education in Mathematics and Computer Science.
+On weekends run my education business, [Blue Ridge Boost](https://blueridgeboost.com/). We offer coding classes and math tutoring to K-12 students.
 
-I am looking for a teaching position in secondary education in Mathematics or Computer Science starting with the 2022-2023 school year. Application materials are available <a href="/job/">here</a>.  -->
+# <a name="teaching"></a>Teaching
+
+<div class="hanging">
+Teacher &mdash; Algebra 1 and 2, Peabody School, Fall 2022 and Spring 2023.
+   </div>
+   <div class="hanging">
+Student-Teacher &mdash; Mathematics, Monticello High School, Fall 2021 and Spring 2022.
+   </div>
+   <div class="hanging">
+Teaching Assistant &mdash; <a href="https://sites.google.com/view/rsecs4501-spring2020/home?authuser=0"/>CS4501 <em>Robotics for Software Engineers</em></a>, University of Virginia, Spring 2020.
+   </div>
+   <div class="hanging">
+Teaching Assistant &mdash; CS4610 <em>Programming Languages</em>, University of Virginia, Fall 2019.
+   </div>
+   <div class="hanging">
+Instructor &mdash; <a href="//www.cs.virginia.edu/evans/finmath/">MATH 1140 <em>Financial Mathematics</em></a>, Fall 2011
+   </div>
+   <div class="hanging">
+Teaching Assistant &mdash; MATH 7752 <em>Algebra II</em>, University of Virginia, Spring 2011.
+   </div>
+   <div class="hanging">
+Grader &mdash; MATH 5651 <em>Advanced Linear Algebra</em>, University of Virginia, Fall 2010.
+   </div>
+   <div class="hanging">
+Teaching Assistant: CS101 <em>Intro to Computer Science</em>, University of Virginia; Fall 2004, Spring 2005; 
+<em>Algorithm Analysis</em>, Politehnica University of Bucharest, Fall 2003;
+<em>Distributed Programming</em>, Politehnica University of Bucharest, Fall 2002;
+<em>Operating Systems Design</em>, Politehnica University of Bucharest, Spring 2002;
+<em>Object-Oriented Programming</em>, Politehnica University of Bucharest, Spring 2002, 2003, 2004.
+   </div>
+
+<p></p>
+
+# Internships and Summer Schools
+
+<a href="https://deepspec.org/event/dsss18/">DeepSpec Summer School</a>, Princeton University, 16 &ndash; 27 July 2018.  
+Visiting Researcher, INRIA Paris, 8 May &ndash; 4 August 2017.  
+Program for Women and Mathematics at the Institute for Advanced Study &mdash; Surfaces, orbifolds and knots, IAS, May 2008.
+	
+<a name="others"></a>
+# Outreach Activities
+
+<a href="https://www.firstinspires.org/robotics/flljr"/>FIRST LEGO League Jr.</a> &mdash; Team Lead Coach/Mentor, 2018 &ndash; 2020 seasons.  
+<a href="//www.tech-girls.org/girls-geek-day.html">GeekGirl@UVa</a> &mdash; organizer. July 14, 2018.  
+<a href="//cvillemathcircle.org/">Cville Math Circle</a> &mdash; cofounder and teacher, Feb 2016 &ndash; March 2020.  
+Mentor of a 4<sup>th</sup> year undergraduate in the Engineering Graduate School Mentor Program, May 2018.  
+Outreach Coordinator, <a href="https://www.virginiaswe.org/">GradSWE at the University of Virginia</a>, May 2018 <br />
+Volunteer family mentor with <a href="//www.theirc.org/us-program/us-charlottesville-va">International Rescue Committee</a>, Jan 2010 &ndash; Jan 2011.  
+Volunteer tutor at Johnson Elementary School; Jan 2010 &ndash; May 2010.  
+Volunteer tutor at Charlottesville High School. Sept 2007 &ndash; June 2008.  
+Founder and Organizer of Security Reading Group at UVA, Jan 2006 &ndash; May 2006.  
+<img align="right" src="/images/nmd.png" width="500" style="border-radius: 30%; padding-left: 15px;">
+Mentoring Committee Chair of <a href="//www.cs.virginia.edu/~acm-w/">ACM-W</a> chapter at the University of Virginia, Sep 2006 &ndash; May 2006.
 
 # <a name="research"></a>Research
 
@@ -133,59 +185,6 @@ IEEE _Symposium on Security and Privacy_, Work in Progress, 9 May 2005.
 				
 <img align="right" src="/images/naturalization.jpg" width="500" style="border-radius: 30%; padding-left: 15px;">
 
-# <a name="teaching"></a>Teaching
-
-<div class="hanging">
-Teacher &mdash; Calculus 1 and 2, Renaissance Schooll, Fall 2022 and Spring 2023.
-   </div>
-   <div class="hanging">
-Student-Teacher &mdash; Mathematics, Monticello High School, Fall 2021 and Spring 2022.
-   </div>
-   <div class="hanging">
-Teaching Assistant &mdash; <a href="https://sites.google.com/view/rsecs4501-spring2020/home?authuser=0"/>CS4501 <em>Robotics for Software Engineers</em></a>, University of Virginia, Spring 2020.
-   </div>
-   <div class="hanging">
-Teaching Assistant &mdash; CS4610 <em>Programming Languages</em>, University of Virginia, Fall 2019.
-   </div>
-   <div class="hanging">
-Instructor &mdash; <a href="//www.cs.virginia.edu/evans/finmath/">MATH 1140 <em>Financial Mathematics</em></a>, Fall 2011
-   </div>
-   <div class="hanging">
-Teaching Assistant &mdash; MATH 7752 <em>Algebra II</em>, University of Virginia, Spring 2011.
-   </div>
-   <div class="hanging">
-Grader &mdash; MATH 5651 <em>Advanced Linear Algebra</em>, University of Virginia, Fall 2010.
-   </div>
-   <div class="hanging">
-Teaching Assistant: CS101 <em>Intro to Computer Science</em>, University of Virginia; Fall 2004, Spring 2005; 
-<em>Algorithm Analysis</em>, Politehnica University of Bucharest, Fall 2003;
-<em>Distributed Programming</em>, Politehnica University of Bucharest, Fall 2002;
-<em>Operating Systems Design</em>, Politehnica University of Bucharest, Spring 2002;
-<em>Object-Oriented Programming</em>, Politehnica University of Bucharest, Spring 2002, 2003, 2004.
-   </div>
-
-<p></p>
-
-# Internships and Summer Schools
-
-<a href="https://deepspec.org/event/dsss18/">DeepSpec Summer School</a>, Princeton University, 16 &ndash; 27 July 2018.  
-Visiting Researcher, INRIA Paris, 8 May &ndash; 4 August 2017.  
-Program for Women and Mathematics at the Institute for Advanced Study &mdash; Surfaces, orbifolds and knots, IAS, May 2008.
-	
-<a name="others"></a>
-# Outreach Activities
-
-<a href="https://www.firstinspires.org/robotics/flljr"/>FIRST LEGO League Jr.</a> &mdash; Team Lead Coach/Mentor, 2018 &ndash; 2020 seasons.  
-<a href="//www.tech-girls.org/girls-geek-day.html">GeekGirl@UVa</a> &mdash; organizer. July 14, 2018.  
-<a href="//cvillemathcircle.org/">Cville Math Circle</a> &mdash; cofounder and teacher, Feb 2016 &ndash; March 2020.  
-Mentor of a 4<sup>th</sup> year undergraduate in the Engineering Graduate School Mentor Program, May 2018.  
-Outreach Coordinator, <a href="https://www.virginiaswe.org/">GradSWE at the University of Virginia</a>, May 2018 <br />
-Volunteer family mentor with <a href="//www.theirc.org/us-program/us-charlottesville-va">International Rescue Committee</a>, Jan 2010 &ndash; Jan 2011.  
-Volunteer tutor at Johnson Elementary School; Jan 2010 &ndash; May 2010.  
-Volunteer tutor at Charlottesville High School. Sept 2007 &ndash; June 2008.  
-Founder and Organizer of Security Reading Group at UVA, Jan 2006 &ndash; May 2006.  
-<img align="right" src="/images/nmd.png" width="500" style="border-radius: 30%; padding-left: 15px;">
-Mentoring Committee Chair of <a href="//www.cs.virginia.edu/~acm-w/">ACM-W</a> chapter at the University of Virginia, Sep 2006 &ndash; May 2006.
 
 # Personal <a name="misc"></a>
 
